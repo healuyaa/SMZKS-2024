@@ -7,7 +7,7 @@
 Изучить аттаку на алгоритм шифрования RSA посредством метода Ферма.
 
 ## Вариант № 12
-![image](tasks/Puchynski/images/lab3_var.png)
+![image](../../images/lab3_var.png)
 
 ## Результаты работы
-![image](tasks/Puchynski/images/lab3_ans.png)
+![image](../../images/lab3_ans.png)

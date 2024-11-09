@@ -7,4 +7,4 @@
 Ознакомление с алгоритмом Гровера и его реализацией в квантовых системах.
 
 ## Результаты работы
-![image](tasks/Puchynski/images/lab5_ans.png)
+![image](../../images/lab5_ans.png)

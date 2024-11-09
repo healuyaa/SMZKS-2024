@@ -7,7 +7,7 @@
 Приобретение практических навыков кодирования/декодирования двоичных данных при использовании кода Хемминга.
 
 ## Вариант № 9
-![image](tasks/Puchynski/images/lab1_var.png)
+![image](../../images/lab1_var.png)
 
 ## Результаты работы
-![image](tasks/Puchynski/images/lab1_ans.png)
+![image](../../images/lab1_ans.png)

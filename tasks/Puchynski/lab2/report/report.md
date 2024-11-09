@@ -7,7 +7,7 @@
 Приобретение практических навыков кодирования/декодирования двоичных данных при использовании итеративных кодов.
 
 ## Вариант № 2
-![image](tasks/Puchynski/images/lab2_var.png)
+![image](../../images/lab2_var.png)
 
 ## Результаты работы
-![image](tasks/Puchynski/images/lab2_ans.png)
+![image](../../images/lab2_ans.png)
