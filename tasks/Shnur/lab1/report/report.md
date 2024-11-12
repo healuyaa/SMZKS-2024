@@ -6,8 +6,9 @@
 ## Цель работы:
 Приобретение практических навыков кодирования/декодирования двоичных данных при использовании кода Хемминга.
 
-## Вариант № 1
-![image](tasks/Bohush/images/lab1_var.png)
+## Вариант № 8
+![image](https://github.com/user-attachments/assets/40ebc82a-dbf0-48b4-8585-c04c6b341e87)
+
 
 ## Результаты работы
-![image](tasks/Bohush/images/lab1_ans.png)
+![image](https://github.com/user-attachments/assets/47fc0135-07d2-4c40-a4f2-60f4bca4d398)
