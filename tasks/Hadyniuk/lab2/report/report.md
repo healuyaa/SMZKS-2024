@@ -6,8 +6,10 @@
 ## Цель работы:
 Приобретение практических навыков кодирования/декодирования двоичных данных при использовании итеративных кодов.
 
-## Вариант № 3
-![image](tasks/Romanko/images/lab2_var.png)
+## Вариант № 2
+![image](https://github.com/user-attachments/assets/75de4436-2eb5-4562-80d2-add2f315665b)
+
 
 ## Результаты работы
-![image](tasks/Romanko/images/lab2_ans.png)
+![image](https://github.com/user-attachments/assets/1b4c543e-143a-4e3b-a69a-eea30e717502)
+
