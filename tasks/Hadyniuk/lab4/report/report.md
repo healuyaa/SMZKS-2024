@@ -7,4 +7,4 @@
 Ознакомление с выполнением простого сложения с помощью квантовых схем.
 
 ## Результаты работы
-![image](tasks/Romanko/images/lab4_ans.png)
+![image](https://github.com/user-attachments/assets/98160e99-67f8-4e74-af77-f41057ca005f)
